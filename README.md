@@ -62,3 +62,19 @@
 4. **Policy Adjustments**
    - Adapt police shifts and assignments based on monthly and location-specific crime data.
    - Work with local businesses to improve safety measures in commercial areas, targeting key hotspots.
+
+
+# SUMMARY
+
+Los Angeles, one of the largest cities in the U.S., faces ongoing challenges related to crime. Key trends emerge that help paint a clearer picture of crime patterns in the city.
+
+
+Single-family dwellings and streets rank as the most common crime locations, with thousands of incidents occurring annually. Multi-unit dwellings, parking lots, and other businesses also see significant crime rates. This suggests that both residential and public spaces are frequent targets, highlighting the need for enhanced security measures and community vigilance in these areas.
+
+
+Los Angeles saw a sharp decrease in crime in 2021, with a nearly 59% drop, though crime rates began to rise again in 2022 and 2023. Monthly trends show fluctuations, with some months experiencing notable drops, like February and April, while others, such as March, saw slight increases. Understanding these patterns can help city officials allocate resources more efficiently and prepare for crime spikes.
+
+
+With 21.64 officers per 1,000 residents, the city has a relatively high police presence. However, the effectiveness of this presence depends on how well officers are distributed across high-crime areas. Optimizing police deployment based on crime data can further reduce incidents in vulnerable neighborhoods.
+
+To address these challenges, Los Angeles can focus on increasing patrols in crime-prone areas, improving infrastructure in public spaces, and engaging communities in crime prevention programs. By leveraging data-driven strategies, city officials can work toward reducing crime and creating a safer environment for all residents. 
