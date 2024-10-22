@@ -2,7 +2,7 @@
 
 This analysis is based on crime data from the Los Angeles database, providing insights into crime trends and patterns across various locations and time periods. The data highlights key crime hotspots, annual and monthly crime fluctuations, and the distribution of police presence in the city. By examining these insights, we can better understand where and when crimes are most likely to occur, enabling more targeted and effective prevention strategies. Below, we present the key findings, recommendations, and actionable next steps to improve public safety and reduce crime rates in Los Angeles.
 
-This analysis of Los Angeles crime data, extracted from Gov.US, cleaned using Power Query, and visualized in Power BI, offers a comprehensive look at crime trends across the city. By leveraging data analytics, key patterns emerge that can inform better decision-making and resource allocation to improve public safety.
+This analysis of Los Angeles crime data, extracted from Data.gov, cleaned using Power Query, and visualized in Power BI, offers a comprehensive look at crime trends across the city. By leveraging data analytics, key patterns emerge that can inform better decision-making and resource allocation to improve public safety.
 
 
 ### Insights
