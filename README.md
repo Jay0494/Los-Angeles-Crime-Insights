@@ -7,21 +7,21 @@ This analysis of Los Angeles crime data, extracted from Data.gov, cleaned using 
 
 ![crime 1](https://github.com/user-attachments/assets/5df01d6b-373e-4b5a-a7f3-bb35bce0b654)
 1. **Top Crime Locations**
-   - *Hotspots:* The primary locations for crimes include **Single Family Dwellings (4.24K incidents)** and **Streets (3.85K incidents)**, followed by **Multi-Unit Dwellings (3.07K)**, **Parking Lots (1.32K)**, and **Sidewalks (1.06K)**【8†source】.
+   - *Hotspots:* The primary locations for crimes include **Single Family Dwellings (4.24K incidents)** and **Streets (3.85K incidents)**, followed by **Multi-Unit Dwellings (3.07K)**, **Parking Lots (1.32K)**, and **Sidewalks (1.06K)**.
    - *Targeted Measures:* These areas should be the focus of heightened police presence, enhanced community programs, and preventive environmental changes, such as lighting and surveillance improvements.
 
 ![crime 2](https://github.com/user-attachments/assets/a0f13705-366f-4dd8-8f24-f49fd9004dcd)
 2. **Annual Crime Trends**
-   - *Yearly Shifts:* Following a substantial decrease in crime rates in 2021 (-57.47%), there was an increase in both 2022 (13.02%) and 2023 (4.09%). A slight decline (-2.12%) is anticipated for 2024【8†source】.
-   - *Demographic Focus:* Crime incidence is highest among young adults (5.52K) and middle-aged individuals (5.41K), suggesting a correlation with their active presence in public and social spaces【8†source】.
+   - *Yearly Shifts:* Following a substantial decrease in crime rates in 2021 (-57.47%), there was an increase in both 2022 (13.02%) and 2023 (4.09%). A slight decline (-2.12%) is anticipated for 2024.
+   - *Demographic Focus:* Crime incidence is highest among young adults (5.52K) and middle-aged individuals (5.41K), suggesting a correlation with their active presence in public and social spaces.
 
 ![crime 3](https://github.com/user-attachments/assets/b52dfeb9-e9ba-4044-8e07-9349d87dafe7)
 3. **Monthly Crime Patterns**
-   - *Seasonal Variations:* Monthly crime changes reveal significant fluctuations, with a notable drop in February (-100%) and another decrease in April (-35.27%). Other months, such as March, experienced slight increases (3.87%)【8†source】.
-   - *Overall Monthly Reduction:* The data indicates an average monthly crime rate reduction of -16.33%, signaling progress in month-to-month crime prevention efforts【8†source】.
+   - *Seasonal Variations:* Monthly crime changes reveal significant fluctuations, with a notable drop in February (-100%) and another decrease in April (-35.27%). Other months, such as March, experienced slight increases (3.87%).
+   - *Overall Monthly Reduction:* The data indicates an average monthly crime rate reduction of -16.33%, signaling progress in month-to-month crime prevention efforts.
 
 4. **Police Presence Per Capita**
-   - *Current Officer Ratio:* Los Angeles has 22.33 officers per 1,000 residents, indicating a relatively strong police presence. However, effective deployment remains essential to address high-crime areas optimally【8†source】.
+   - *Current Officer Ratio:* Los Angeles has 22.33 officers per 1,000 residents, indicating a relatively strong police presence. However, effective deployment remains essential to address high-crime areas optimally.
 
 ---
 
