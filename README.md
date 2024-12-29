@@ -14,7 +14,7 @@ This report aims to identify actionable insights that stakeholders can leverage 
 
 ---
 
-#### 1. **Crime Locations (Top 8)**
+#### 1. **Crime Locations (Top 8)** 
    - **Top Locations**: Streets, single-family dwellings, and multi-unit dwellings like apartments rank as the top three locations for crimes, with incidence rates of 373.6, 340.4, and 252.9, respectively.
    - **Insights**: High crime rates in residential areas and streets suggest a need for enhanced neighborhood safety measures and street surveillance.
 
