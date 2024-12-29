@@ -1,6 +1,10 @@
+---
 ### Introduction
-The crime analysis for Los Angeles in 2024 provides valuable insights into the trends, locations, and demographics affected by criminal activities. Using data visualizations, this report examines key patterns such as high-crime locations, victim profiles, and the most prevalent types of crimes. Additionally, the analysis tracks annual and monthly crime rate trends, offering a comprehensive understanding of the shifts in criminal activity over time.
-This report aims to identify actionable insights that stakeholders can leverage to enhance public safety, allocate resources effectively, and implement preventive measures. The findings emphasize a focused approach to tackling property crimes, addressing demographic vulnerabilities, and maintaining the positive impacts of previous successful interventions.
+
+The crime analysis for Los Angeles in 2024 is derived from a comprehensive dataset uploaded from **Data.gov**, a trusted and authoritative source for open data. The raw data underwent thorough cleaning and processing to ensure accuracy, relevance, and usability for actionable insights. 
+
+This report explores key trends, high-crime locations, victim demographics, and the most prevalent crime types. Additionally, it examines annual and monthly variations in crime rates to uncover underlying patterns and factors driving criminal activity. 
+
 
 ---
 ### VISUALS
