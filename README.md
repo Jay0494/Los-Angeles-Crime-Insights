@@ -1,93 +1,106 @@
----
-### Introduction
-
-The crime analysis for Los Angeles in 2024 is derived from a comprehensive dataset uploaded from **Data.gov**, a trusted and authoritative source for open data. The raw data underwent thorough cleaning and processing to ensure accuracy, relevance, and usability for actionable insights. 
-
-This report explores key trends, high-crime locations, victim demographics, and the most prevalent crime types. Additionally, it examines annual and monthly variations in crime rates to uncover underlying patterns and factors driving criminal activity. 
-
-
----
-### VISUALS
-![Intro page](https://github.com/user-attachments/assets/5f58d1a4-eb72-4ed3-bddc-ba85c01a1ce4)
-
----
-![page 2](https://github.com/user-attachments/assets/64f64b6d-00d3-4a4a-bb67-347b57d1588f)
-
----
-![page 3](https://github.com/user-attachments/assets/f4d8d372-8e1e-46d8-bba5-2f37d90e5c9b)
+# Analysis of Los Angeles Crime Trends (2020–2024).
+### Introduction  
+This analysis explores crime trends in Los Angeles over the period 2020–2024, with a special focus on the year 2024. The study examines reported crime statistics, demographic distributions, and crime hotspots to uncover patterns and provide actionable recommendations. Insights are derived from a comprehensive dataset obtained from [Data.gov](https://data.gov), and all analysis, cleaning, modeling, and visualization were conducted using Power BI. This report serves as a resource for policymakers, law enforcement agencies, and community leaders aiming to address crime more effectively.  
 
 ---
 
-#### 1. **Crime Locations (Top 8)** 
-   - **Top Locations**: Streets, single-family dwellings, and multi-unit dwellings like apartments rank as the top three locations for crimes, with incidence rates of 373.6, 340.4, and 252.9, respectively.
-   - **Insights**: High crime rates in residential areas and streets suggest a need for enhanced neighborhood safety measures and street surveillance.
+### Methodology and Tools  
+1. **Data Source**:  
+   - Crime data was sourced from Data.gov, a reliable repository of US government datasets.  
 
-#### 2. **Victim Age vs. Crime Incidence**
-   - **Most Affected Age Groups**: Young adults (491.5) and middle-aged individuals (458) are the most targeted. Toddlers and children are the least affected (10 and 48.6, respectively).
-   - **Insights**: Crimes predominantly affect economically active and socially mobile age groups, indicating potential targeting due to opportunity or vulnerability.
+2. **Data Cleaning and Modeling**:  
+   - Performed entirely in Power BI, including:  
+     - Cleaning datasets to eliminate inconsistencies.  
+     - Aggregating and transforming data to uncover patterns.  
+     - Modeling crime trends and categorizing demographic information.  
 
-#### 3. **Victim Gender vs. Crime Incidence**
-   - **Gender Distribution**: Male victims account for 43.82%, females for 36.8%, and others for 19.37%.
-   - **Insights**: Male victims are slightly more prevalent, but the data suggests fairly balanced gender targeting in crimes.
+3. **Visualization**:  
+   - An interactive Power BI dashboard was created to visualize trends and demographic data, enabling detailed analysis.  
 
-#### 4. **Top 5 Crimes**
-   - **Most Common Crimes**: The top five crimes include:
-     - **Burglary from vehicles** (199.7 incidents)
-     - **Shoplifting** under $950 (190.2 incidents)
-     - **Petty theft** under $950 (180 incidents)
-     - **Felony vandalism** (175 incidents)
-     - **Trespassing** (139.1 incidents)
-   - **Insights**: Property crimes dominate, reflecting opportunities for preventive measures such as theft deterrents, surveillance, and community awareness campaigns.
-
-#### 5. **Annual Crime Trend**
-   - **Trend Overview**:
-     - The crime rate showed significant fluctuations:
-       - A drastic drop (-57.47%) in 2021.
-       - Subsequent recovery in 2022 (+13.02%) and 2023 (+4.09%).
-       - A slight dip in 2024 (-2.13%).
-   - **Insights**: Crime rates are not consistently rising, suggesting that interventions in 2021 may have had a strong, albeit temporary, impact.
-
-#### 6. **Monthly Crime Trend for 2024**
-   - **Highest Declines**: February (-68.9%) and April (-35.25%) saw substantial drops.
-   - **Insights**: The monthly pattern highlights variability, indicating possible seasonal or event-driven factors.
+4. **Focus Areas**:  
+   - Long-term trends from 2020 to 2024 to identify overall patterns.  
+   - Year 2024 examined in depth, including monthly fluctuations and specific crime categories.  
 
 ---
 
-### Recommendations
+### Findings and Insights  
+---
+![general picture ](https://github.com/user-attachments/assets/ca1b4958-a291-4658-8ffe-a5e680c3f555)
 
-1. **Enhanced Surveillance in High-Crime Locations**:
-   - Install cameras and increase patrols in residential areas and streets.
-   - Promote community watch programs.
+---
+#### **Crime Trends (2020–2024):**  
+1. **Most Reported Crimes**:  
+   - *Battery - Simple Assault* was the highest reported crime, with **74,807 cases** and a crime rate of **389.90**.  
+   - *Identity Theft* was the highest-ranked crime overall in terms of frequency.  
+---
+![picture 1](https://github.com/user-attachments/assets/31341766-9e13-414d-ad67-1c17018ac6b8)
 
-2. **Focus on Young Adults and Middle-Aged Individuals**:
-   - Conduct awareness campaigns targeting these age groups, emphasizing crime prevention and personal safety.
+---
+2. **Crime Peak in 2022**:  
+   - Crime incidents reached their highest in 2022, surpassing **205,000 cases**.  
 
-3. **Gender-Specific Safety Initiatives**:
-   - Develop programs to address the safety of male victims while maintaining efforts for female and diverse gender safety.
+---
+![picture 2](https://github.com/user-attachments/assets/1c4d83db-ecaf-44cf-a8e8-ef1055e9b537)
 
-4. **Tackle Property Crimes**:
-   - Strengthen theft deterrents like car alarms and secure packaging for retail items.
-   - Collaborate with businesses to reduce shoplifting and vandalism.
+---
+3. **Monthly Crime Variation**:  
+   - The month of **March** showed the highest increase in crime rate, recording a **+11.6% change**.  
 
-5. **Sustain Effective Policies**:
-   - Revisit 2021 policies for insights on what worked to reduce crime significantly.
-   - Analyze factors behind monthly crime variations to predict and mitigate spikes.
+#### **Demographic Insights:**  
+1. **Victim Gender Distribution**:  
+   - **Males** accounted for **46.69%** of victims, with middle-aged individuals being the most affected. Leading crimes were:  
+     - *Battery - Simple Assault*.  
+     - *Assault with a Deadly Weapon*.  
+   - **Females** represented **43.69%** of victims, with young adult females most affected. Leading crimes included:  
+     - *Identity Theft*.  
+     - *Intimate Partner Assault*.  
+   - **Other Category** comprised **9.62%** of victims.  
+
+2. **Crime Locations**:  
+   - *Streets* were the top-ranking crime spots for male victims.  
+   - *Single-family dwellings* ranked highest for female victims.  
+
+#### **2024 Crime Trends:**  
+1. **Overall Crime Reduction**:  
+   - Reported crimes decreased steadily from January to December 2024. By December, the crime rate dropped by **-23.8%**.  
+
+2. **Notable Month - August**:  
+   - Crime rate temporarily rose by **+5.23%** in August.  
+   - Leading crimes in August:  
+     - *Trespassing*.  
+     - *Shoplifting Below $950*.  
+     - *Plain Theft Under $950*.  
+
+3. **Top Crimes in 2024**:  
+   - *Burglary from Vehicle*, *Shoplifting Below $950*, and *Plain Theft Under $950* were the most reported crimes throughout the year.  
 
 ---
 
-### Stakeholder Letter
+### Recommendations  
 
-**To: Stakeholders of Los Angeles Crime Prevention Initiatives**  
-**Subject: Insights and Recommendations on Crime Data Analysis for 2024**  
+#### **1. Address High-Incidence Crimes:**  
+- **Battery - Simple Assault**:  
+  - Deploy targeted programs to reduce assaults, especially in areas identified as hotspots such as streets and single-family dwellings.  
+- **Identity Theft**:  
+  - Launch public awareness campaigns to educate residents on preventing identity theft, focusing on young female adults, the most affected demographic.  
 
-Dear Stakeholders,
+#### **2. Proactive Policing During Crime Spikes:**  
+- Allocate additional resources and police patrols in months with crime surges, especially March and August.  
+- Use data-driven strategies to anticipate potential hotspots for trespassing, shoplifting, and theft.  
 
-As we review the crime data from 2024, we aim to address the challenges faced by our community. The insights reveal concentrated criminal activity in residential areas and on streets, with property crimes such as theft and vandalism being predominant. Young adults and middle-aged individuals emerge as the most vulnerable demographics.
+#### **3. Support for Vulnerable Demographics:**  
+- **Male Victims**:  
+  - Provide counseling and safety programs tailored to middle-aged men, with a focus on preventing assaults.  
+- **Female Victims**:  
+  - Strengthen support systems for young adult females, emphasizing protection against intimate partner violence and identity theft.  
 
-Despite the minor overall decrease in crime this year, we must act decisively. Targeted interventions, such as enhancing surveillance in high-crime areas, fostering community involvement, and tailoring programs for vulnerable groups, are paramount. Additionally, learning from 2021’s significant crime reduction could provide us with valuable strategies for long-term improvements.
+#### **4. Strengthen Community Engagement:**  
+- Partner with local businesses to implement security measures aimed at reducing shoplifting and theft under $950.  
+- Foster community vigilance through neighborhood watch programs and public reporting initiatives.  
 
-Together, we can create a safer Los Angeles for all residents. I welcome your thoughts on these findings and look forward to collaborative efforts.
+#### **5. Continuous Monitoring and Predictive Analytics:**  
+- Leverage real-time crime dashboards to monitor fluctuations and allocate resources dynamically.  
+- Invest in predictive analytics to identify emerging trends and implement preemptive measures.  
 
-Best regards,  
-Elijah Okpako   
-Data analyst  
+#### **6. Mitigate Seasonal Crimes:**  
+- Focus on August, the month with the highest temporary increase in crime rate. Efforts should include addressing trespassing and petty theft through proactive campaigns and increased law enforcement visibility.  
